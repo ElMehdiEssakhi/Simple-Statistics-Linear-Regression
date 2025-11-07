@@ -35,7 +35,7 @@ This is a tiny, single-module linear-regression demo intended for teaching and q
 
 Prerequisites: a local Python environment with `pandas` and `matplotlib` installed.
 
-Install dependencies (PowerShell):
+Install dependencies (CMD):
 
 ```powershell
 python -m pip install --upgrade pip
