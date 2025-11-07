@@ -62,4 +62,7 @@ y = data['y']
 a, b = rl.a_b(x, y)
 print(f"Regression: y = {a} * x + {b}")
 ```
+## License
+
+This project is provided as-is for learning purposes. Use and modify freely.
 
